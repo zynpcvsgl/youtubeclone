@@ -10,9 +10,6 @@ This project is a simple **YouTube UI clone** made using HTML and CSS. If you're
 I firmly believe the best way to learn coding is through practice. By regularly working on projects like this, you'll steadily improve and become a professional developer.
 
 ---
-## Screenshot of the project
- <img src="https://i.imgur.com/5ovPKtx.png" alt="youTube">
-
 ## 🛠️ Contribute to the Project
 
 Thank you for checking out this repository! Your contributions are welcome and highly appreciated.  
