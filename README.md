@@ -14,7 +14,7 @@ I firmly believe the best way to learn coding is through practice. By regularly 
 
 Thank you for checking out this repository! Your contributions are welcome and highly appreciated.  
 
-If you have any suggestions to improve this project, feel free to fork the repository and submit a pull request. Alternatively, you can create an issue with the "enhancement" tag. Also, don't forget to ⭐ this project if you like it. Thanks again!
+If you have any suggestions to improve this project, feel free to fork the repository and submit a pull request. Alternatively, you can create an issue with the "enhancement" tag. 
 
 ---
 
