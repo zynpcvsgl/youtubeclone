@@ -18,6 +18,5 @@ If you have any suggestions to improve this project, feel free to fork the repos
 
 ---
 
-### Made with ❤️ by ZÇ  
 
 
